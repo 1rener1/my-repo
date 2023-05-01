@@ -2,21 +2,21 @@
   "items": [
     {
       "@context": "https://schema.org/Recipe",
-      "@type": "Recipe",
+      "@type": "CreativeWork",
       "id": "1",
       "name": "Chocolate Cream Pie",
       "recipeCategory": "Decadent"
     },
     {
       "@context": "https://schema.org/Recipe",
-      "@type": "Recipe",
+      "@type": "CreativeWork",
       "id": "2",
       "name": "Oreo Cream Pie",
       "description": "America's favorite cookie in pie form"
     },
     {
       "@context": "https://schema.org/Recipe",
-      "@type": "Recipe",
+      "@type": "CreativeWork",
       "id": "3",
       "name": "Peanut Butter Chocolate Chip Cookies",
       "description": "For when you don't have any peanutbutter cups in the house"
