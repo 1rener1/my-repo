@@ -1,0 +1,51 @@
+{
+  "items": [
+    {
+      "@context": "https://schema.org/Recipe",
+      "@type": "Recipe",
+      "id": "1",
+      "name": "Chocolate Cream Pie",
+      "recipeCategory": "Decadent"
+    },
+    {
+      "@context": "https://schema.org/Recipe",
+      "@type": "Recipe",
+      "id": "2",
+      "name": "Oreo Cream Pie",
+      "description": "America's favorite cookie in pie form"
+    },
+    {
+      "@context": "https://schema.org/Recipe",
+      "@type": "Recipe",
+      "id": "3",
+      "name": "Peanut Butter Chocolate Chip Cookies",
+      "description": "For when you don't have any peanutbutter cups in the house"
+    }
+  ],
+  "users": [
+    {
+      "@context": "https://schema.org/Recipe",
+      "@type": "Person",
+      "id": "1",
+      "name": "Yer Mom",
+      "description": "what my kids call me",
+      "itemId": "1"
+    },
+    {
+      "@context": "https://schema.org/Recipe",
+      "@type": "Person",
+      "id": "2",
+      "name": "Bruh",
+      "description": "what my kids call each other",
+      "itemId": "1"
+    }
+  ],
+  "collection": {
+    "@context": "https://schema.org/Recipe",
+    "@type": "Collection",
+    "name": "Get In My Belly",
+    "creator": "irenemiller",
+    "about": "Food you want to eat",
+    "url": "https://www.jasonclark.info"
+  }
+}
