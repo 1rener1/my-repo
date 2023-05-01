@@ -1,21 +1,21 @@
 {
   "items": [
     {
-      "@context": "https://schema.org/Recipe",
+      "@context": "https://schema.org/",
       "@type": "CreativeWork",
       "id": "1",
       "name": "Chocolate Cream Pie",
       "recipeCategory": "Decadent"
     },
     {
-      "@context": "https://schema.org/Recipe",
+      "@context": "https://schema.org/",
       "@type": "CreativeWork",
       "id": "2",
       "name": "Oreo Cream Pie",
       "description": "America's favorite cookie in pie form"
     },
     {
-      "@context": "https://schema.org/Recipe",
+      "@context": "https://schema.org/",
       "@type": "CreativeWork",
       "id": "3",
       "name": "Peanut Butter Chocolate Chip Cookies",
@@ -24,7 +24,7 @@
   ],
   "users": [
     {
-      "@context": "https://schema.org/Recipe",
+      "@context": "https://schema.org/",
       "@type": "Person",
       "id": "1",
       "name": "Yer Mom",
@@ -32,7 +32,7 @@
       "itemId": "1"
     },
     {
-      "@context": "https://schema.org/Recipe",
+      "@context": "https://schema.org/",
       "@type": "Person",
       "id": "2",
       "name": "Bruh",
@@ -41,7 +41,7 @@
     }
   ],
   "collection": {
-    "@context": "https://schema.org/Recipe",
+    "@context": "https://schema.org/",
     "@type": "Collection",
     "name": "Get In My Belly",
     "creator": "irenemiller",
