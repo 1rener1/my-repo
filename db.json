@@ -5,7 +5,7 @@
       "@type": "CreativeWork",
       "id": "1",
       "name": "Chocolate Cream Pie",
-      "recipeCategory": "Decadent"
+      "description": "Decadent"
     },
     {
       "@context": "https://schema.org/",
